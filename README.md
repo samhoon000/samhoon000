@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">👋 Hi, I’m Samhoon from India<br><br>🎓 I’m a student pursuing Artificial Intelligence & Data Science<br><br>🔭 I’m currently working on data-driven projects and improving my problem-solving skills<br><br>📚 I’m currently learning Machine Learning, Data Analysis, and Python-based tools<br><br>📊 I love working with data — data cleaning, visualization, and finding meaningful insights</p>
+<p align="left">👋 Hi, I’m Samhoon <br><br>🎓 I’m a student pursuing Artificial Intelligence & Data Science<br><br>🔭 I’m currently working on data-driven projects and improving my problem-solving skills<br><br>📚 I’m currently learning Machine Learning, Data Analysis, and Python-based tools<br><br>📊 I love working with data — data cleaning, visualization, and finding meaningful insights</p>
 
 ###
 
