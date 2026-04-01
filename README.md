@@ -1,20 +1,9 @@
-<h1 align="center">Turning curiosity into code and data into impact 🚀</h1>
-
----
-
-## 🛠️ Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="60"/>
-  <img src="https://skillicons.dev/icons?i=mysql" height="60"/>
-  <img src="https://skillicons.dev/icons?i=firebase" height="60"/>
-  <img src="https://skillicons.dev/icons?i=pycharm" height="60"/>
-  <img src="https://skillicons.dev/icons?i=github" height="60"/>
-  <img src="https://skillicons.dev/icons?i=git" height="60"/>
+  <img height="150" src="https://i.pinimg.com/originals/f1/ed/a4/f1eda4768df8d8135c779772f2833e88.gif"/>
 </div>
 
 ---
 
-## 🌐 Connect with Me
 <div align="center">
   <a href="https://www.linkedin.com/in/abdul-samhoon-0bb8b5330">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -25,26 +14,40 @@
   <a href="https://instagram.com/samho.on">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://x.com/trimoticy28994">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
 </div>
-
-<p align="center">💬 Discord: <b>dazai7847</b></p>
 
 ---
 
-## 📊 GitHub Stats
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=samhoon000&theme=dracula" height="150"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=samhoon000.samhoon000"/>
 </div>
 
 ---
 
-## 🟡 Pacman Contribution Graph
+<h1 align="center">Hello There!!! 👋</h1>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samhoon000/samhoon000/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/samhoon000/samhoon000/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/samhoon000/samhoon000/output/pacman-contribution-graph.svg">
-</picture>
+---
+
+<h3 align="left">👩‍💻 About Me</h3>
+
+<p align="left">
+👋 Hi, I’m Samhoon from India <br><br>
+🎓 AI & Data Science student <br><br>
+🔭 Working on real-world data-driven projects <br><br>
+📚 Learning Machine Learning, Data Analysis & Python <br><br>
+📊 Passionate about data cleaning, visualization & insights
+</p>
+
+---
+
+<h3 align="left">🛠 Language and Tools</h3>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40"/>
+</div>
