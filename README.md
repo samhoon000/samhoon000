@@ -52,10 +52,8 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samhoon000/samhoon000/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/samhoon000/samhoon000/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/samhoon000/samhoon000/output/pacman-contribution-graph.svg">
-</picture>
+<div align="center">
+  <img src="https://github.com/samhoon000/samhoon000/blob/output/pacman-contribution-graph.svg?raw=true" />
+</div>
 
 ###
