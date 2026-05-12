@@ -1,5 +1,13 @@
 <h1 align="center">Turning curiosity into code and data into impact</h1>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-70%25-blue" />
+  <img src="https://img.shields.io/badge/SQL-60%25-green" />
+  <img src="https://img.shields.io/badge/PowerBI-70%25-yellow" />
+  <img src="https://img.shields.io/badge/Excel-75%25-success" />
+  <img src="https://img.shields.io/badge/Pandas-75%25-orange" />
+</p>
+
 ###
 
 <div align="center">
