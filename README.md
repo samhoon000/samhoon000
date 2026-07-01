@@ -12,12 +12,12 @@
 
 ## 📌 About Me
 
-- 📊 Turning messy data into meaningful stories.
-- 📈 Passionate about dashboards, analytics, and business insights.
-- 💡 I enjoy building projects that answer real business questions.
-- 🛠️ Currently sharpening my skills in Power BI, DuckDB, and advanced SQL.
-- 🐍 Python + SQL are my go-to tools for solving data problems.
-- 🎯 Goal: Become a Data Analyst who helps organizations make data-driven decisions.
+-  Turning messy data into meaningful stories.
+-  Passionate about dashboards, analytics, and business insights.
+-  I enjoy building projects that answer real business questions.
+-  Currently sharpening my skills in Power BI, DuckDB, and advanced SQL.
+-  Python + SQL are my go-to tools for solving data problems.
+-  Goal: Become a Data Analyst who helps organizations make data-driven decisions.
 
 <br><br>
 
