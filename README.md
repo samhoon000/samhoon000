@@ -1,73 +1,178 @@
-<h1 align="center">
-  Hey <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="30" width="30"> I'm Abdul Samhoon
-</h1>
-
-<h3 align="center">Business Intelligence & Data Analytics Enthusiast</h3>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="Banner" width="100%" />
-
-<br><br>
-
-## 📌 About Me
-
--  Turning messy data into meaningful stories.
--  Passionate about dashboards, analytics, and business insights.
--  I enjoy building projects that answer real business questions.
--  Currently sharpening my skills in Power BI, DuckDB, and advanced SQL.
--  Python + SQL are my go-to tools for solving data problems.
--  Goal: Become a Data Analyst who helps organizations make data-driven decisions.
-
-<br><br>
-
-## 🛠️ Languages & Tools
-
-<p align="center">
-  
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-FFFFFF?style=for-the-badge&logo=matplotlib&logoColor=black)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FE4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-<br>
-<br>
-</p>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=samhoon000&theme=tokyonight&hide_border=true&cache_seconds=86400" width="49%" />
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=samhoon000&theme=tokyonight&radius=10" width="100%" />
-</p>
-
-<br><br>
-
-## 🔗 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/abdul-samhoon-0bb8b5330" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" width="45" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://wa.me/919632459416" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" width="45" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="mailto:bdlsmhn@gmail.com"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" width="45" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://samhoon.xyz/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" width="45" /></a>
-</p>
-
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./.github/assets/cozy-corner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./.github/assets/cozy-corner-light.svg">
+  <img alt="A cozy desk with coffee, books, a plant, and a laptop" src="./.github/assets/cozy-corner-light.svg" width="100%">
+</picture>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+
+<sub>☕ &nbsp; WELCOME TO MY LITTLE CORNER OF GITHUB &nbsp; 🌿</sub>
+
+# hi, i'm Abdul Samhoon
+
+### business intelligence · data analytics · thoughtful problem-solving
+
+I turn messy data and real-world questions into clear stories, useful dashboards,<br>
+and decisions people can act on.
+
+[portfolio](https://samhoon.xyz/) · [linkedin](https://www.linkedin.com/in/abdul-samhoon-0bb8b5330) · [email](mailto:bdlsmhn@gmail.com) · [whatsapp](https://wa.me/919632459416)
+
+</div>
+
+<br>
+
+## 🌿 a little about me
+
+I'm an **AI & Data Science student from India** with a soft spot for finding the story hidden inside a dataset. I enjoy cleaning untidy data, asking practical business questions, and shaping the answers into dashboards and analyses that feel clear rather than overwhelming.
+
+Python and SQL are usually where I begin; Power BI is where many of those findings become something people can explore. My longer-term goal is to grow into a data analyst who helps organizations make better, evidence-led decisions.
+
+> I like projects that begin with a messy question and end with a useful answer.
+
+<br>
+
+## ☕ currently
+
+| | |
+|---|---|
+| **building** | data projects grounded in real business questions |
+| **learning** | Power BI, DuckDB, and more advanced SQL |
+| **exploring** | customer behavior, public-interest data, and practical AI systems |
+| **improving** | the path from raw data to a clear, decision-ready story |
+
+<br>
+
+## ✦ things i've built
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛒 [Instacart Customer Analytics](https://github.com/samhoon000/instacart-customer-analytics)
+
+An end-to-end analysis of **3.4M+ grocery transactions**, moving from DuckDB and SQL analysis to customer segments, retention insights, and two Power BI dashboards.
+
+<sub>Python · DuckDB · SQL · Power BI</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### 🌾 [Indian Food Price Volatility](https://github.com/samhoon000/indian-food-price-volatility)
+
+An agricultural market dashboard for understanding price volatility, seasonal shocks, regional risk, and the markets that over- or underpay farmers.
+
+<sub>Power BI · Power Query · DAX</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🍎 [Food & Health Risk Analytics](https://github.com/samhoon000/food-health-risk-analysis)
+
+A completed analytics workflow that turns nutrition data into custom density and health-risk measures, SQL findings, and an interactive dashboard.
+
+<sub>Python · MySQL · SQL · Power BI</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### 🌿 [Karnataka Air Quality Analysis](https://github.com/samhoon000/Karnataka_AQI_Analysis)
+
+CPCB air-quality data transformed into city, seasonal, and public-health insights for Karnataka, with a focused Power BI report.
+
+<sub>Python · Pandas · Power BI</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🗺️ [Karnataka Land Data Extractor](https://github.com/samhoon000/Land-Data-Extractor)
+
+A data-engineering pipeline that discovers, validates, matches, and exports official cadastral and land-record data—with provenance and geometry checks built in.
+
+<sub>Python · GeoPandas · Shapely · Streamlit</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### 🔎 [Internship Discovery Engine](https://github.com/samhoon000/internship-agent)
+
+A multi-source internship pipeline and dashboard that filters noise, scores relevance and legitimacy, deduplicates listings, and surfaces cleaner opportunities.
+
+<sub>Python · React · TypeScript · MySQL</sub>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<sub>MORE EXPLORATIONS</sub><br>
+[Olist e-commerce](https://github.com/samhoon000/olist_sales_analysis) · [job-market database](https://github.com/samhoon000/Job-Portal-Database-Analysis) · [heatwave prediction](https://github.com/samhoon000/Heatwave_Prediction_System) · [restaurant reservations](https://github.com/samhoon000/TableWise) · [all repositories →](https://github.com/samhoon000?tab=repositories)
+
+</div>
+
+<br>
+
+## 🧩 things i work with
+
+<p align="center"><sub>DATA &amp; ANALYTICS</sub></p>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="42" height="42" alt="Python" title="Python">&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="42" height="42" alt="Pandas" title="Pandas">&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="42" height="42" alt="NumPy" title="NumPy">&nbsp;&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/duckdb/FFF000"><img src="https://cdn.simpleicons.org/duckdb/5E5147" width="42" height="42" alt="DuckDB" title="DuckDB"></picture>&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="42" height="42" alt="Power BI" title="Power BI">&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="42" height="42" alt="Matplotlib" title="Matplotlib">
+</p>
+
+<p align="center"><sub>DEVELOPMENT</sub></p>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="42" height="42" alt="JavaScript" title="JavaScript">&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="42" height="42" alt="TypeScript" title="TypeScript">&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="42" height="42" alt="React" title="React">&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" width="42" height="42" alt="Streamlit" title="Streamlit">
+</p>
+
+<p align="center"><sub>AI / ML &nbsp;·&nbsp; DATABASES</sub></p>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="42" height="42" alt="scikit-learn" title="scikit-learn">&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="42" height="42" alt="MySQL" title="MySQL">&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="42" height="42" alt="MongoDB" title="MongoDB">
+</p>
+
+<p align="center"><sub>TOOLS &amp; SHIPPING</sub></p>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="42" height="42" alt="Git" title="Git">&nbsp;&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/F7F0E6"><img src="https://cdn.simpleicons.org/github/5E5147" width="42" height="42" alt="GitHub" title="GitHub"></picture>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="42" height="42" alt="Jupyter" title="Jupyter">&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="42" height="42" alt="AWS" title="Amazon Web Services">&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/render/7D8B6A" width="42" height="42" alt="Render" title="Render">&nbsp;&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/vercel/F7F0E6"><img src="https://cdn.simpleicons.org/vercel/5E5147" width="42" height="42" alt="Vercel" title="Vercel"></picture>
+</p>
+
+<br>
+
+## 📊 a little activity
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=samhoon000&hide_border=true&background=00000000&ring=A67C52&fire=B06F4D&currStreakLabel=7D8B6A&sideLabels=8B6F55&dates=9A8D7D&currStreakNum=A67C52&sideNums=A67C52" alt="Abdul's GitHub contribution streak" width="500">
+</div>
+
+<br>
+
+<div align="center">
+
+### let's turn a curious question into something useful.
+
+[say hello](mailto:bdlsmhn@gmail.com) · [visit my portfolio](https://samhoon.xyz/) · [find me on linkedin](https://www.linkedin.com/in/abdul-samhoon-0bb8b5330)
+
+<sub>made with curiosity, careful questions, and a warm cup nearby ☕</sub>
+
 </div>

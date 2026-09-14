@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">A cozy data corner</title>
+  <desc id="desc">A warm desk scene with a laptop, coffee, books, and a leafy plant.</desc>
+  <rect width="1200" height="360" rx="28" fill="#F7F0E6"/>
+  <path d="M0 288h1200v72H0z" fill="#D8BFA1"/>
+  <path d="M0 287h1200" stroke="#B88D62" stroke-width="3"/>
+  <g fill="none" stroke="#D9CCBA" stroke-width="2" opacity=".65">
+    <path d="M70 58h240M890 58h240"/>
+    <circle cx="78" cy="58" r="4" fill="#C4A27D" stroke="none"/>
+    <circle cx="1122" cy="58" r="4" fill="#C4A27D" stroke="none"/>
+  </g>
+  <g transform="translate(92 94)">
+    <path d="M56 150c-7-60 4-103 35-130" fill="none" stroke="#68755D" stroke-width="7" stroke-linecap="round"/>
+    <g fill="#7D8B6A">
+      <ellipse cx="64" cy="92" rx="35" ry="16" transform="rotate(32 64 92)"/>
+      <ellipse cx="93" cy="57" rx="34" ry="15" transform="rotate(-34 93 57)"/>
+      <ellipse cx="46" cy="130" rx="32" ry="15" transform="rotate(28 46 130)"/>
+      <ellipse cx="112" cy="25" rx="29" ry="13" transform="rotate(-22 112 25)"/>
+    </g>
+    <path d="M27 145h78l-10 72H39z" fill="#B06F4D"/>
+    <path d="M23 145h86" stroke="#8D563B" stroke-width="8" stroke-linecap="round"/>
+  </g>
+  <g transform="translate(368 83)">
+    <rect width="464" height="224" rx="18" fill="#5E5147"/>
+    <rect x="14" y="14" width="436" height="194" rx="10" fill="#FBF7F0"/>
+    <g fill="#BBA68A"><circle cx="62" cy="50" r="6"/><circle cx="82" cy="50" r="6"/><circle cx="102" cy="50" r="6"/></g>
+    <g fill="none" stroke-linecap="round" stroke-width="8">
+      <path d="M66 89h132" stroke="#7D8B6A"/><path d="M66 119h236" stroke="#C09A72"/>
+      <path d="M66 149h184" stroke="#B06F4D"/><path d="M66 179h286" stroke="#D9CCBA"/>
+    </g>
+    <path d="M-28 224h520l-33 24H5z" fill="#75665B"/>
+    <path d="M174 232h146" stroke="#9C8B7D" stroke-width="5" stroke-linecap="round"/>
+  </g>
+  <g transform="translate(900 178)">
+    <path d="M0 0h102v75c0 25-18 42-51 42S0 98 0 75z" fill="#A67C52"/>
+    <path d="M100 23c49-4 55 68 2 67" fill="none" stroke="#A67C52" stroke-width="14"/>
+    <ellipse cx="51" cy="2" rx="51" ry="12" fill="#7B5135"/>
+    <path d="M30-18c-15-17 14-23 1-42M61-18c-14-19 14-27 2-44" fill="none" stroke="#C8A987" stroke-width="5" stroke-linecap="round" opacity=".75"/>
+  </g>
+  <g transform="translate(1034 204)">
+    <rect y="57" width="112" height="18" rx="5" fill="#7D8B6A"/><rect x="10" y="35" width="106" height="18" rx="5" fill="#B06F4D"/>
+    <rect x="-4" y="13" width="108" height="18" rx="5" fill="#C4A27D"/><path d="M16 13V31M91 13v18" stroke="#8D6F51" stroke-width="3"/>
+  </g>
+  <g fill="#A67C52" opacity=".9">
+    <circle cx="293" cy="89" r="5"/><circle cx="892" cy="102" r="4"/>
+    <path d="M292 63v16M284 71h16M908 68v14M901 75h14" stroke="#A67C52" stroke-width="3" stroke-linecap="round"/>
+  </g>
+</svg>
