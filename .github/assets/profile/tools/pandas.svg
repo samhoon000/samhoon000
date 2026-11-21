@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="38" viewBox="0 0 100 38">
+  <title>pandas</title>
+  <style>
+    .tile { fill: #eef6f2; stroke: #bfd1c8; }
+    .name { fill: #183c34; font: 600 14px system-ui, sans-serif; }
+    @media (prefers-color-scheme: dark) {
+      .tile { fill: #1a3029; stroke: #3b6053; }
+      .name { fill: #e7fbf0; }
+    }
+  </style>
+  <rect class="tile" x=".5" y="1.5" width="99" height="35" rx="8"/>
+  <rect x="6" y="5" width="28" height="28" rx="6" fill="#ffffff"/>
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" x="10" y="9" width="20" height="20"><path fill="#130754" d="M46.236 7.567h13.99v29.047h-13.99Zm0 59.668h13.99V96.28h-13.99Z" /><path fill="#ffca00" d="M46.236 45.092h13.99v13.705h-13.99Z" /><path fill="#130754" d="M23.763 31.446h13.989V128h-13.99ZM68.245 91.2h13.99v29.046h-13.99Zm0-59.72h13.99v29.047h-13.99Z" /><path fill="#e70488" d="M68.245 69.011h13.99v13.705h-13.99Z" /><path fill="#130754" d="M90.248 0h13.99v96.554h-13.99Z" /></svg>
+  <text class="name" x="41" y="24" text-anchor="start">pandas</text>
+</svg>

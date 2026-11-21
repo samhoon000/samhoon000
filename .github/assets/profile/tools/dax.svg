@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="57" height="38" viewBox="0 0 57 38">
+  <title>DAX</title>
+  <style>
+    .tile { fill: #eef6f2; stroke: #bfd1c8; }
+    .name { fill: #183c34; font: 600 14px system-ui, sans-serif; }
+    @media (prefers-color-scheme: dark) {
+      .tile { fill: #1a3029; stroke: #3b6053; }
+      .name { fill: #e7fbf0; }
+    }
+  </style>
+  <rect class="tile" x=".5" y="1.5" width="56" height="35" rx="8"/>
+  <text class="name" x="28.5" y="24" text-anchor="middle">DAX</text>
+</svg>

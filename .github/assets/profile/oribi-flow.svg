@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="856" height="122" viewBox="0 0 856 122">
+  <title>How Oribi profiles a DataFrame</title>
+  <style>
+    .bg { fill: #eef6f2; stroke: #bdcec5; }
+    .card { fill: #fff; stroke: #acc3b9; }
+    .core { fill: #183c34; stroke: #183c34; }
+    .ink { fill: #183c34; }
+    .muted { fill: #45665b; }
+    .line { fill: none; stroke: #4f7b6c; }
+    .code { fill: #e7fbf0; font: 600 23px ui-monospace, 'Cascadia Mono', 'Liberation Mono', monospace; }
+    .label { font: 600 23px system-ui, sans-serif; }
+    .note { font: 16px system-ui, sans-serif; }
+    @media (prefers-color-scheme: dark) {
+      .bg { fill: #152823; stroke: #37594e; }
+      .card { fill: #1c342d; stroke: #52766a; }
+      .core { fill: #a8efd5; stroke: #a8efd5; }
+      .ink { fill: #edf9f3; }
+      .muted { fill: #c1dcd2; }
+      .line { stroke: #8fc6b2; }
+      .code { fill: #142c25; }
+    }
+    @media (max-width: 520px) {
+      .label { font-size: 33px; transform: translateY(14px); }
+      .code { font-size: 29px; }
+      .note { display: none; }
+    }
+  </style>
+  <rect class="bg" x=".5" y=".5" width="855" height="121" rx="13"/>
+  <rect class="card" x="20" y="20" width="238" height="82" rx="9"/>
+  <rect class="core" x="307" y="20" width="232" height="82" rx="9"/>
+  <rect class="card" x="588" y="20" width="248" height="82" rx="9"/>
+  <path class="line" d="M271 61h24m-6-5 6 5-6 5m264-5h23m-6-5 6 5-6 5" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <g text-anchor="middle">
+    <text x="139" y="56" class="label ink">DataFrame</text>
+    <text x="139" y="80" class="note muted">pandas</text>
+    <text x="423" y="69" class="code">inspect(df)</text>
+    <text x="712" y="56" class="label ink">Context</text>
+    <text x="712" y="80" class="note muted">Markdown · JSON · Prompt</text>
+  </g>
+</svg>

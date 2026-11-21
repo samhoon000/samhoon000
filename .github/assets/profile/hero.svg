@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="856" height="256" viewBox="0 0 856 256">
+  <title>Abdul Samhoon</title>
+  <desc>A grid of raw records feeds into a set of structured findings.</desc>
+  <defs>
+    <linearGradient id="ink" x2="1" y2="1" gradientUnits="objectBoundingBox">
+      <stop stop-color="#102321"/>
+      <stop offset=".62" stop-color="#132f2b"/>
+      <stop offset="1" stop-color="#1b4238"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop stop-color="#65c8ad" stop-opacity=".21"/>
+      <stop offset="1" stop-color="#65c8ad" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="22" height="22" patternUnits="userSpaceOnUse">
+      <path d="M0 22V0h22" fill="none" stroke="#d9ffed" stroke-opacity=".10"/>
+    </pattern>
+    <clipPath id="frame"><rect width="856" height="256" rx="17"/></clipPath>
+  </defs>
+  <style>
+    .name { font-family: Georgia, 'Times New Roman', serif; font-size: 84px; letter-spacing: -4px; }
+    .mono { font-family: ui-monospace, 'Cascadia Mono', 'Liberation Mono', monospace; }
+    .handle { font-size: 15px; }
+    .signal { opacity: 0; stroke-dasharray: 25 450; }
+    @media (max-width: 520px) {
+      .name { font-size: 94px; letter-spacing: -5px; }
+      .handle { font-size: 23px; }
+      .legend { display: none; }
+    }
+    @media (prefers-reduced-motion: no-preference) {
+      .signal { animation: trace 4.4s cubic-bezier(.32,.07,.3,1) both; }
+    }
+    @keyframes trace {
+      0% { stroke-dashoffset: 28; opacity: 0; }
+      17% { opacity: 1; }
+      68% { opacity: 1; }
+      100% { stroke-dashoffset: -317; opacity: 0; }
+    }
+  </style>
+  <g clip-path="url(#frame)">
+    <path fill="url(#ink)" d="M0 0h856v256H0z"/>
+    <ellipse cx="711" cy="129" rx="247" ry="183" fill="url(#glow)"/>
+    <path fill="url(#grid)" d="M484 24h348v208H484z"/>
+    <rect x="12" y="12" width="832" height="232" rx="11" fill="none" stroke="#c3eedb" stroke-opacity=".18"/>
+    <path d="M484 24v208" stroke="#a2c3b8" stroke-opacity=".24"/>
+
+    <circle cx="54" cy="42" r="3.5" fill="#e8ba76"/>
+    <text x="68" y="47" fill="#aaced0" class="mono handle" letter-spacing="1.35">@samhoon000</text>
+    <text x="47" y="130" class="name" fill="#f8f5e9">Abdul</text>
+    <text x="47" y="213" class="name" fill="#a8efd5">Samhoon</text>
+
+    <g transform="translate(0 -10)">
+      <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M607 124h22c19 0 20-32 40-32h65M607 138h127M607 152h22c19 0 20 32 40 32h65" stroke="#98e3c8" stroke-opacity=".64" stroke-width="1.4"/>
+        <path d="M607 138h127m-127 14h22c19 0 20 32 40 32h65" stroke="#a6ffdc" stroke-width="2.5" class="signal"/>
+        <path d="M607 124h22c19 0 20-32 40-32h65" stroke="#ffd598" stroke-width="2.5" class="signal"/>
+      </g>
+
+      <rect x="517" y="100" width="90" height="76" rx="8" fill="#132d28" stroke="#77a89a"/>
+      <rect x="526" y="109" width="72" height="13" rx="3" fill="#77bfa9" fill-opacity=".34"/>
+      <path d="M550 109v57m25-57v57m-49-29h72m-72 15h72" fill="none" stroke="#517e71"/>
+      <path d="M532 115h10m14 0h12m13 0h10" stroke="#c0f1dd" stroke-width="1.5" stroke-linecap="round"/>
+      <path d="M533 130h8m16 0h10m15 0h8m-57 15h8m16 15h10m15-15h8m-57 15h8m41 0h8" fill="none" stroke="#82b7a8" stroke-width="1.4" stroke-linecap="round"/>
+      <circle cx="562" cy="145" r="2.5" fill="#edc183"/>
+
+      <g fill="#183831" stroke="#73ad9b">
+        <rect x="734" y="75" width="79" height="34" rx="7"/>
+        <rect x="734" y="121" width="79" height="34" rx="7"/>
+        <rect x="734" y="167" width="79" height="34" rx="7"/>
+      </g>
+      <g fill="none" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M746 96l4-5 5 2 5-7" stroke="#eccc93"/>
+        <path d="M746 142h14m-11-3v-4m4 4v-8m4 8v-6" stroke="#aaead4"/>
+        <path d="M747 188h12m-6-6v12" stroke="#aaead4"/>
+        <path d="M768 89h34m-34 6h23m-23 40h34m-34 6h23m-23 40h34m-34 6h23" stroke="#8fc3b4"/>
+      </g>
+      <g fill="#b8d4ca" class="mono legend" font-size="13" letter-spacing="1">
+        <text x="517" y="232">RAW DATA</text>
+        <text x="813" y="232" text-anchor="end">CONTEXT</text>
+      </g>
+    </g>
+  </g>
+</svg>
