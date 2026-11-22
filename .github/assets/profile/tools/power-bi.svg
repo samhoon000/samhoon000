@@ -1,25 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="109" height="38" viewBox="0 0 109 38">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 54 61" width="54" height="61">
   <title>Power BI</title>
-  <style>
-    .tile { fill: #eef6f2; stroke: #bfd1c8; }
-    .name { fill: #183c34; font: 600 14px system-ui, sans-serif; }
-    @media (prefers-color-scheme: dark) {
-      .tile { fill: #1a3029; stroke: #3b6053; }
-      .name { fill: #e7fbf0; }
-    }
-  </style>
-  <rect class="tile" x=".5" y="1.5" width="108" height="35" rx="8"/>
-  <rect x="6" y="5" width="28" height="28" rx="6" fill="#ffffff"/>
-  <svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns2="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" width="20" height="20" viewBox="0 0 1200 1600" fill="none" version="1.1" x="10" y="9">
-  <metadata id="metadata19659">
-    <rdf:RDF>
-      <ns2:Work rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </ns2:Work>
-    </rdf:RDF>
-  </metadata>
+  <!-- Logo source: https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg -->
+  <svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" viewBox="0 0 1200 1600" fill="none" version="1.1" id="svg19655" x="14" y="7">
   <mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="200" y="0" width="1200" height="1600">
     <path d="m 1333.25,0 c 36.86,0 66.75,29.8849 66.75,66.75 v 1466.5 c 0,36.86 -29.89,66.75 -66.75,66.75 H 266.667 C 229.848,1600 200,1570.15 200,1533.33 V 866.667 C 200,829.848 229.848,800 266.667,800 H 525 V 466.667 C 525,429.848 554.848,400 591.667,400 H 850 V 66.75 C 850,29.885 879.885,0 916.75,0 Z" fill="#ffffff" id="path19600" />
   </mask>
@@ -58,6 +40,22 @@
       <stop offset="1" stop-color="#F6D751" id="stop19650" />
     </linearGradient>
   </defs>
+  <style>
+    @media (prefers-color-scheme: dark) { .label { fill: #A1A1AA; } }
+    @media (prefers-color-scheme: light) { .label { fill: #52525B; } }
+  </style>
 </svg>
-  <text class="name" x="41" y="24" text-anchor="start">Power BI</text>
+  <text class="label" x="27" y="46" text-anchor="middle" font-family="system-ui, 'Segoe UI', Arial, sans-serif"
+        font-size="10" font-weight="600" fill="#777777">Power BI</text>
+  <path class="underline" d="M24 56h6" stroke="#71B0BB" stroke-linecap="round" opacity="0"/>
+  <style>
+    @media (prefers-reduced-motion: no-preference) {
+      .underline { animation: glint 2.8s ease-in-out 0.00s 1; }
+    }
+    @keyframes glint { 0%, 100% { opacity: 0; } 45% { opacity: .65; } }
+  </style>
+  <style>
+    @media (prefers-color-scheme: dark) { .label { fill: #A1A1AA; } }
+    @media (prefers-color-scheme: light) { .label { fill: #52525B; } }
+  </style>
 </svg>

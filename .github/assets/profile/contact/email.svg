@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 53" width="64" height="53">
+  <title>Email</title>
+  <!-- Logo source: https://raw.githubusercontent.com/primer/octicons/main/icons/mail-24.svg -->
+  <svg xmlns="http://www.w3.org/2000/svg" width="23" height="23" viewBox="0 0 24 24" x="20.5" y="8.5" fill="#777F86"><path d="M1.75 3h20.5c.966 0 1.75.784 1.75 1.75v14a1.75 1.75 0 0 1-1.75 1.75H1.75A1.75 1.75 0 0 1 0 18.75v-14C0 3.784.784 3 1.75 3ZM1.5 7.412V18.75c0 .138.112.25.25.25h20.5a.25.25 0 0 0 .25-.25V7.412l-9.52 6.433c-.592.4-1.368.4-1.96 0Zm0-2.662v.852l10.36 7a.25.25 0 0 0 .28 0l10.36-7V4.75a.25.25 0 0 0-.25-.25H1.75a.25.25 0 0 0-.25.25Z" />  <style>
+    @media (prefers-color-scheme: dark) { .label { fill: #A1A1AA; } }
+    @media (prefers-color-scheme: light) { .label { fill: #52525B; } }
+  </style>
+</svg>
+  <text class="label" x="32" y="46" text-anchor="middle" font-family="system-ui, 'Segoe UI', Arial, sans-serif"
+        font-size="10" font-weight="600" fill="#777777">Email</text>
+  <style>
+    @media (prefers-color-scheme: dark) { .label { fill: #A1A1AA; } }
+    @media (prefers-color-scheme: light) { .label { fill: #52525B; } }
+  </style>
+</svg>

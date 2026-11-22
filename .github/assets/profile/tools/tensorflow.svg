@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 54 61" width="54" height="61">
+  <title>TensorFlow</title>
+  <!-- Logo source: https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg -->
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" x="14" y="7" width="26" height="26">
+  <path d="m61.55 128-21.84-12.68V40.55L6.81 59.56l.08-28.32L61.55 0zM66.46 0v128l21.84-12.68V79.31l16.49 9.53-.1-24.63-16.39-9.36v-14.3l32.89 19.01-.08-28.32z" fill="#ff6f00" />
+  <style>
+    @media (prefers-color-scheme: dark) { .label { fill: #A1A1AA; } }
+    @media (prefers-color-scheme: light) { .label { fill: #52525B; } }
+  </style>
+</svg>
+  <text class="label" x="27" y="46" text-anchor="middle" font-family="system-ui, 'Segoe UI', Arial, sans-serif"
+        font-size="9.3" font-weight="600" fill="#777777">TensorFlow</text>
+  <path class="underline" d="M24 56h6" stroke="#71B0BB" stroke-linecap="round" opacity="0"/>
+  <style>
+    @media (prefers-reduced-motion: no-preference) {
+      .underline { animation: glint 2.8s ease-in-out 0.76s 1; }
+    }
+    @keyframes glint { 0%, 100% { opacity: 0; } 45% { opacity: .65; } }
+  </style>
+  <style>
+    @media (prefers-color-scheme: dark) { .label { fill: #A1A1AA; } }
+    @media (prefers-color-scheme: light) { .label { fill: #52525B; } }
+  </style>
+</svg>

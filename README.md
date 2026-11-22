@@ -1,75 +1,107 @@
-<h1><img src="./.github/assets/profile/hero.svg" alt="Abdul Samhoon" width="856" height="256"></h1>
+<h1><img src="./.github/assets/profile/hero.svg" alt="Abdul Samhoon" width="856" height="244"></h1>
 
-**Data analytics · Machine learning**
+<p align="center"><em>“A good question tells you what to measure. A useful tool helps you ask the next one.”</em></p>
 
-I build dashboards for business decisions and Python tools that give AI useful context about data. I’m a final-year Artificial Intelligence &amp; Data Science student and have worked as a Data Analyst Intern at **Trinetro Labs**.
+## About Me
 
-## Selected work
+I’m Abdul Samhoon, a final-year Artificial Intelligence & Data Science student. I previously worked as a Data Analyst Intern at **Trinetro Labs**, and I maintain **Oribi**, an open-source Python library.
 
-### [Oribi](https://github.com/samhoon000/Oribi)
+I enjoy making sense of messy data and building practical tools that make technical work easier. My interests span data analytics, machine learning, AI, open-source software, and backend engineering.
 
-I created and maintain Oribi, an open-source Python library that profiles pandas DataFrames locally. It reports likely column roles, candidate keys, and data-quality warnings, then exports structured context for analysts and AI tools.
+## Featured Projects
 
-<p><img src="./.github/assets/profile/oribi-flow.svg" alt="Oribi workflow from a pandas DataFrame through inspect(df) to a Markdown, JSON, or prompt-ready context snapshot" width="856" height="122"></p>
+### Oribi
 
-[PyPI package](https://pypi.org/project/oribi/) · [Contributing guide](https://github.com/samhoon000/Oribi/blob/main/CONTRIBUTING.md)
+Oribi inspects pandas DataFrames locally to infer dataset grain, column roles, and likely relationships, and flag data-quality issues. It gives developers and AI tools a structured snapshot of a dataset without having to share or repeatedly explain the raw data.
 
-### [Instacart Customer Analytics](https://github.com/samhoon000/instacart-customer-analytics)
+<img src="./.github/assets/profile/oribi-flow.svg" alt="DataFrame → Oribi → Analytical Context" width="856" height="188">
 
-I used SQL and DuckDB to study reorder behavior and segment customers across **more than 3.4 million grocery orders**, then built two Power BI dashboards to explore the findings.
+Python · pandas · [Repository](https://github.com/samhoon000/Oribi) · [PyPI](https://pypi.org/project/oribi/) · [Contributing guide](https://github.com/samhoon000/Oribi/blob/main/CONTRIBUTING.md)
+
+### Instacart Customer Analytics
+
+I analyzed **more than 3.4 million grocery orders** to understand purchasing patterns, segment customers, and explore what people reorder. Two Power BI dashboards make the findings explorable.
+
+SQL · DuckDB · Power BI · [Repository](https://github.com/samhoon000/instacart-customer-analytics)
 
 <details>
 <summary>Preview the executive dashboard</summary>
-
 <br>
-<img src="./.github/assets/profile/instacart-overview.webp" alt="Instacart Power BI executive dashboard with order and reorder KPIs, purchasing patterns, and department performance" width="856">
-
+<img src="./.github/assets/profile/instacart-overview.webp" alt="Instacart Power BI dashboard showing reorder KPIs, purchasing patterns, and department performance" width="856">
 </details>
 
-### [Tamil Nadu Air Quality Analysis](https://github.com/samhoon000/tamilnadu-air-quality-analysis)
+### Tamil Nadu Air Quality Analysis
 
-I used DuckDB and Power BI to analyze five years of air quality readings across eight Tamil Nadu cities and urban areas, comparing pollution trends and showing where monitoring data is sparse.
+I compared five years of air-quality readings across eight Tamil Nadu cities and urban areas, using monitoring-station data to explore pollutant trends and gaps in coverage.
 
-## Tools I work with
+SQL · DuckDB · Power BI · [Repository](https://github.com/samhoon000/tamilnadu-air-quality-analysis)
 
-**Data analysis**
+### Sentinel — Cybersecurity Monitoring System
 
-<p>
-  <img src="./.github/assets/profile/tools/python.svg" alt="Python" width="94" height="38">
-  <img src="./.github/assets/profile/tools/sql.svg" alt="SQL" width="54" height="38">
-  <img src="./.github/assets/profile/tools/pandas.svg" alt="pandas" width="100" height="38">
-  <img src="./.github/assets/profile/tools/numpy.svg" alt="NumPy" width="105" height="38">
-  <img src="./.github/assets/profile/tools/duckdb.svg" alt="DuckDB" width="109" height="38">
-</p>
+Sentinel monitors network traffic and combines multiple signals to flag suspicious activity in a real-time dashboard. Its intrusion detector uses a GATv2 graph neural network.
 
-**Business intelligence**
+Python · FastAPI · PyTorch · Graph neural networks
+
+## Tech Stack
+
+### Languages & Data
 
 <p>
-  <img src="./.github/assets/profile/tools/power-bi.svg" alt="Power BI" width="109" height="38">
-  <img src="./.github/assets/profile/tools/power-query.svg" alt="Power Query" width="135" height="38">
-  <img src="./.github/assets/profile/tools/dax.svg" alt="DAX" width="57" height="38">
+  <img src="./.github/assets/profile/tools/python.svg" alt="Python" width="51" height="58">
+  <img src="./.github/assets/profile/tools/sql.svg" alt="SQL" width="51" height="58">
+  <img src="./.github/assets/profile/tools/pandas.svg" alt="pandas" width="51" height="58">
+  <img src="./.github/assets/profile/tools/numpy.svg" alt="NumPy" width="51" height="58">
+  <img src="./.github/assets/profile/tools/duckdb.svg" alt="DuckDB" width="51" height="58">
 </p>
 
-**Machine learning and APIs**
+### Analytics & Visualization
 
 <p>
-  <img src="./.github/assets/profile/tools/scikitlearn.svg" alt="scikit-learn" width="124" height="38">
-  <img src="./.github/assets/profile/tools/pytorch.svg" alt="PyTorch" width="108" height="38">
-  <img src="./.github/assets/profile/tools/fastapi.svg" alt="FastAPI" width="105" height="38">
+  <img src="./.github/assets/profile/tools/power-bi.svg" alt="Power BI" width="51" height="58">
+  <img src="./.github/assets/profile/tools/excel.svg" alt="Excel" width="51" height="58">
+  <img src="./.github/assets/profile/tools/matplotlib.svg" alt="Matplotlib" width="51" height="58">
+  <img src="./.github/assets/profile/tools/seaborn.svg" alt="Seaborn" width="51" height="58">
 </p>
+
+### Machine Learning & AI
+
+<p>
+  <img src="./.github/assets/profile/tools/scikitlearn.svg" alt="scikit-learn" width="51" height="58">
+  <img src="./.github/assets/profile/tools/pytorch.svg" alt="PyTorch" width="51" height="58">
+  <img src="./.github/assets/profile/tools/tensorflow.svg" alt="TensorFlow" width="51" height="58">
+  <img src="./.github/assets/profile/tools/keras.svg" alt="Keras" width="51" height="58">
+</p>
+
+### Backend & Development
+
+<p>
+  <img src="./.github/assets/profile/tools/fastapi.svg" alt="FastAPI" width="51" height="58">
+  <img src="./.github/assets/profile/tools/flask.svg" alt="Flask" width="51" height="58">
+  <img src="./.github/assets/profile/tools/git.svg" alt="Git" width="51" height="58">
+  <img src="./.github/assets/profile/tools/github.svg" alt="GitHub" width="51" height="58">
+  <img src="./.github/assets/profile/tools/vscode.svg" alt="VS Code" width="51" height="58">
+</p>
+
+### Databases & Cloud
+
+<p>
+  <img src="./.github/assets/profile/tools/mysql.svg" alt="MySQL" width="51" height="58">
+  <img src="./.github/assets/profile/tools/postgresql.svg" alt="PostgreSQL" width="51" height="58">
+  <img src="./.github/assets/profile/tools/mongodb.svg" alt="MongoDB" width="51" height="58">
+  <img src="./.github/assets/profile/tools/aws.svg" alt="AWS" width="51" height="58">
+</p>
+
+## GitHub Activity
+
+<a href="https://github.com/samhoon000#contribution-activity"><img src="./.github/assets/profile/contributions.svg" alt="Contribution calendar for the most recent 26 weeks, with brighter cells for more active days. Open the GitHub contribution calendar for details." width="856" height="264"></a>
+
+[View contribution activity on GitHub](https://github.com/samhoon000#contribution-activity)
 
 ## Connect
 
-[Portfolio](https://samhoon.xyz/) · [GitHub repositories](https://github.com/samhoon000?tab=repositories) · [LinkedIn](https://www.linkedin.com/in/abdul-samhoon-0bb8b5330/) · [Email](mailto:bdlsmhn@gmail.com)
-
-## GitHub activity
-
-<p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=samhoon000&amp;bg_color=142c25&amp;color=e7fbf0&amp;line=78d6b2&amp;point=f2c680&amp;area=true&amp;area_color=437a69&amp;hide_border=true&amp;custom_title=Last%2031%20days&amp;radius=12" alt="Line graph of my GitHub contributions over the last 31 days" width="856">
+<p align="center">
+  <a href="https://samhoon.xyz"><img src="./.github/assets/profile/contact/portfolio.svg" alt="Portfolio" width="64" height="53"></a>
+  <a href="https://github.com/samhoon000"><img src="./.github/assets/profile/contact/github.svg" alt="GitHub" width="64" height="53"></a>
+  <a href="https://www.linkedin.com/in/abdul-samhoon-0bb8b5330/"><img src="./.github/assets/profile/contact/linkedin.svg" alt="LinkedIn" width="64" height="53"></a>
+  <a href="mailto:bdlsmhn@gmail.com"><img src="./.github/assets/profile/contact/email.svg" alt="Email Abdul Samhoon" width="64" height="53"></a>
 </p>
-
-<p>
-  <img src="https://streak-stats.demolab.com/?user=samhoon000&amp;hide_border=true&amp;background=142c25&amp;ring=78d6b2&amp;fire=f2c680&amp;currStreakLabel=78d6b2&amp;currStreakNum=e7fbf0&amp;sideNums=e7fbf0&amp;sideLabels=e7fbf0&amp;dates=b5cfc4&amp;stroke=457064&amp;border_radius=12&amp;disable_animations=true" alt="GitHub contribution totals, current streak, and longest streak" width="495">
-</p>
-
-[View contributions on GitHub →](https://github.com/samhoon000#contribution-activity)

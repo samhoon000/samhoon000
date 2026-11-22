@@ -1,15 +1,22 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="100" height="38" viewBox="0 0 100 38">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 54 61" width="54" height="61">
   <title>pandas</title>
-  <style>
-    .tile { fill: #eef6f2; stroke: #bfd1c8; }
-    .name { fill: #183c34; font: 600 14px system-ui, sans-serif; }
-    @media (prefers-color-scheme: dark) {
-      .tile { fill: #1a3029; stroke: #3b6053; }
-      .name { fill: #e7fbf0; }
-    }
+  <!-- Logo source: https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg -->
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" x="14" y="7" width="26" height="26"><path fill="#6876A7" d="M46.236 7.567h13.99v29.047h-13.99Zm0 59.668h13.99V96.28h-13.99Z" /><path fill="#ffca00" d="M46.236 45.092h13.99v13.705h-13.99Z" /><path fill="#6876A7" d="M23.763 31.446h13.989V128h-13.99ZM68.245 91.2h13.99v29.046h-13.99Zm0-59.72h13.99v29.047h-13.99Z" /><path fill="#e70488" d="M68.245 69.011h13.99v13.705h-13.99Z" /><path fill="#6876A7" d="M90.248 0h13.99v96.554h-13.99Z" />  <style>
+    @media (prefers-color-scheme: dark) { .label { fill: #A1A1AA; } }
+    @media (prefers-color-scheme: light) { .label { fill: #52525B; } }
   </style>
-  <rect class="tile" x=".5" y="1.5" width="99" height="35" rx="8"/>
-  <rect x="6" y="5" width="28" height="28" rx="6" fill="#ffffff"/>
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" x="10" y="9" width="20" height="20"><path fill="#130754" d="M46.236 7.567h13.99v29.047h-13.99Zm0 59.668h13.99V96.28h-13.99Z" /><path fill="#ffca00" d="M46.236 45.092h13.99v13.705h-13.99Z" /><path fill="#130754" d="M23.763 31.446h13.989V128h-13.99ZM68.245 91.2h13.99v29.046h-13.99Zm0-59.72h13.99v29.047h-13.99Z" /><path fill="#e70488" d="M68.245 69.011h13.99v13.705h-13.99Z" /><path fill="#130754" d="M90.248 0h13.99v96.554h-13.99Z" /></svg>
-  <text class="name" x="41" y="24" text-anchor="start">pandas</text>
+</svg>
+  <text class="label" x="27" y="46" text-anchor="middle" font-family="system-ui, 'Segoe UI', Arial, sans-serif"
+        font-size="10" font-weight="600" fill="#777777">pandas</text>
+  <path class="underline" d="M24 56h6" stroke="#71B0BB" stroke-linecap="round" opacity="0"/>
+  <style>
+    @media (prefers-reduced-motion: no-preference) {
+      .underline { animation: glint 2.8s ease-in-out 0.76s 1; }
+    }
+    @keyframes glint { 0%, 100% { opacity: 0; } 45% { opacity: .65; } }
+  </style>
+  <style>
+    @media (prefers-color-scheme: dark) { .label { fill: #A1A1AA; } }
+    @media (prefers-color-scheme: light) { .label { fill: #52525B; } }
+  </style>
 </svg>
