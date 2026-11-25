@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 856 264" width="856" height="264">
   <title>GitHub contribution calendar</title>
-  <desc>Activity from May 31, 2026 – Nov 24, 2026. Brighter squares indicate higher activity.</desc>
+  <desc>Activity from May 31, 2026 – Nov 25, 2026. Brighter squares indicate higher activity.</desc>
   <style>
     @media (prefers-reduced-motion: no-preference) {
       .active { animation: sweep 1.35s ease-out 1; }
@@ -10,7 +10,7 @@
   <rect width="856" height="264" rx="12" fill="#000"/>
   <rect x=".5" y=".5" width="855" height="263" rx="11.5" fill="none" stroke="#27272A"/>
   <g font-family="system-ui, Segoe UI, Arial, sans-serif" font-size="23" fill="#A1A1AA">
-    <text x="52" y="36">May 31, 2026 – Nov 24, 2026</text>
+    <text x="52" y="36">May 31, 2026 – Nov 25, 2026</text>
     <text x="642" y="242" text-anchor="end">Less</text>
     <text x="804" y="242" text-anchor="end">More</text>
   </g>
@@ -191,7 +191,8 @@
   <rect x="748" y="192" width="27" height="21" rx="3" fill="#A9EAF1" class="active" style="animation-delay:1.320s"/>
   <rect x="777" y="54" width="27" height="21" rx="3" fill="#A9EAF1" class="active" style="animation-delay:1.375s"/>
   <rect x="777" y="77" width="27" height="21" rx="3" fill="#539DA8" class="active" style="animation-delay:1.375s"/>
-  <rect x="777" y="100" width="27" height="21" rx="3" fill="#244248" class="active" style="animation-delay:1.375s"/>
+  <rect x="777" y="100" width="27" height="21" rx="3" fill="#386973" class="active" style="animation-delay:1.375s"/>
+  <rect x="777" y="123" width="27" height="21" rx="3" fill="#539DA8" class="active" style="animation-delay:1.375s"/>
   <rect x="656" y="230" width="13" height="13" rx="2" fill="#16181A"/>
   <rect x="673" y="230" width="13" height="13" rx="2" fill="#244248"/>
   <rect x="690" y="230" width="13" height="13" rx="2" fill="#386973"/>
